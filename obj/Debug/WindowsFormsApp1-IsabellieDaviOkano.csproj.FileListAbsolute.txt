@@ -1,0 +1,33 @@
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe.config
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.pdb
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.AssemblyReference.cache
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.Frmnotas.resources
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.Properties.Resources.resources
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.GenerateResource.cache
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe
+F:\2A-DS-PI\Isabelli e Okano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.pdb
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe.config
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.pdb
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.AssemblyReference.cache
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.Frmnotas.resources
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.Properties.Resources.resources
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.GenerateResource.cache
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.pdb
+F:\2A-DS-PI\IsabelliEokano\DS\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.frmmedia.resources
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe.config
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\bin\Debug\WindowsFormsApp1-IsabellieDaviOkano.pdb
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.AssemblyReference.cache
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.Frmnotas.resources
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.frmmedia.resources
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.Properties.Resources.resources
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.GenerateResource.cache
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.exe
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1-IsabellieDaviOkano.pdb
+C:\Users\2ds\Downloads\WindowsFormsApp1-IsabellieDaviOkano\WindowsFormsApp1-IsabellieDaviOkano\obj\Debug\WindowsFormsApp1_IsabellieDaviOkano.frmMenu.resources
